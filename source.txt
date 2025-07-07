@@ -1,0 +1,110 @@
+31
+Elbit Systems
+Israel Aerospace Industries (IAI)
+
+32
+Lockheed Martin
+Leonardo S.p.A
+
+33
+Elbit Systems
+Israel Aerospace Industries (IAI)
+Massachusetts Institute of Technology (MIT)
+
+34
+FANUC Corporation
+provide robotic machinery for weapons production lines, including for 
+Elbit Systems
+Israel Aerospace Industries (IAI)
+Lockheed Martin
+A.P. Moller – Maersk A/S
+
+35
+Elbit Systems
+Israel Aerospace Industries (IAI)
+
+37
+NSO Group
+
+38
+IBM Israel
+Hewlett Packard Enterprises (HPE)
+HP Inc.
+
+39
+Microsoft
+
+40
+Alphabet Inc (Google)
+Amazon.com Inc
+
+41
+Microsoft
+Alphabet Inc (Google)
+Amazon.com Inc
+
+42
+Palantir Technology Inc.
+
+45
+Caterpillar Inc.
+Elbit Systems
+Israel Aerospace Industries (IAI)
+RADA Electronic Industries
+
+46
+HD Hyundai
+Doosan
+Volvo Group
+Merkavim Transport Pty Ltd
+
+50
+Caterpillar
+HD Hyundai
+Volvo Group
+Heidelberg Materials AG
+Hanson Israel
+
+51
+Construcciones Auxiliar de Ferrocarriles
+Doosan
+Volvo Group
+Heidelberg Materials AG
+
+52
+Keller Williams Realty LLC
+KW Israel
+Home in Israel
+
+55
+Mekorot
+
+57
+Drummond Company Inc.
+Glencore plc
+
+58
+US Chevron Corporation
+NewMedEnergy 
+Delek Group
+East Mediterranean Gas (EMG)
+British BP p.l.c.
+
+59
+British BP p.l.c.
+US Chevron Corporation
+Kazakh Caspian Pipeline Consortium
+Petrobras
+Paz Retail and Energy Ltd
+
+62
+Tnuva
+Bright Dairy & Food Co. Ltd
+
+63
+Netafim
+Orbia Advance Corporation
+
+64
+Tnuva
+Netafim
